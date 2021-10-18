@@ -1,0 +1,5 @@
+.streamlit/
+lib/streamlit/static
+streamlit-storage
+.python-version
+minorP
